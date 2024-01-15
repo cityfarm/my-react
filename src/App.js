@@ -6,7 +6,7 @@ function App() {
   const age = "45";
   const isMale = true;
   const student = {
-    name: "Phan Phuong"
+    name: "Sinh vien Phuong"
   };
   const colorList = ['red', 'green', 'blue'];
 
